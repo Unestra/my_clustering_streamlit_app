@@ -15,6 +15,7 @@ st.set_page_config(page_title="K-Means Clustering App", layout="centered")
 
 
 
+
 #st.subheader(" Example Data for visualization")
 #st.markdown("This demo uses example data (2D) to illustrate clustering results.")
 
